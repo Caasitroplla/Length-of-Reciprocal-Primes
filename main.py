@@ -9,7 +9,7 @@ def main():
 	primes = get_primes(lower, upper)
 	# Dict to store values
 	dict = { "primes" : [] }
-	# Calcualtes the number of values 
+	# Calculates the number of values 
 	for prime in primes:
 		dict["primes"].append({"prime":prime, "len_reciprocal_root": find_len_repeating_reciprocal(prime)})
 	# Save those values to json
