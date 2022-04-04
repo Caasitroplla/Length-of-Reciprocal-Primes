@@ -8,5 +8,5 @@ def save_data(dict, filename='data.json'):
 # gets the data stored in the json file
 def get_data(filename='data.json'):
 	with open(filename, 'r') as json_file:
-		data = json.load(json_file)
+		data = json.load(json_file, indent=4)
 	return data 
