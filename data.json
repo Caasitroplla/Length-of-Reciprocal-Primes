@@ -1,1 +1,5 @@
-{"primes": [{"prime": 2, "len_reciprocal_root": 2}, {"prime": 3, "len_reciprocal_root": 1}, {"prime": 5, "len_reciprocal_root": 2}, {"prime": 7, "len_reciprocal_root": 6}, {"prime": 11, "len_reciprocal_root": 2}, {"prime": 13, "len_reciprocal_root": 6}, {"prime": 17, "len_reciprocal_root": 16}, {"prime": 19, "len_reciprocal_root": 18}, {"prime": 23, "len_reciprocal_root": 22}, {"prime": 29, "len_reciprocal_root": 28}, {"prime": 31, "len_reciprocal_root": 15}, {"prime": 37, "len_reciprocal_root": 3}, {"prime": 41, "len_reciprocal_root": 5}, {"prime": 43, "len_reciprocal_root": 21}, {"prime": 47, "len_reciprocal_root": 46}, {"prime": 53, "len_reciprocal_root": 13}, {"prime": 59, "len_reciprocal_root": 58}, {"prime": 61, "len_reciprocal_root": 60}, {"prime": 67, "len_reciprocal_root": 33}, {"prime": 71, "len_reciprocal_root": 35}, {"prime": 73, "len_reciprocal_root": 8}, {"prime": 79, "len_reciprocal_root": 13}, {"prime": 83, "len_reciprocal_root": 41}, {"prime": 89, "len_reciprocal_root": 44}, {"prime": 97, "len_reciprocal_root": 96}]}
+{"primes": [],
+"data" : {
+	"end-point": 0,
+	"values_completed": 0
+}}
